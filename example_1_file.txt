@@ -1,3 +1,6 @@
 Example 1 file created to learn about untracked 
                                       staged
               			      tracked files
+
+I made some other changes to this file
+
