@@ -1,0 +1,3 @@
+Example 1 file created to learn about untracked 
+                                      staged
+              			      tracked files
